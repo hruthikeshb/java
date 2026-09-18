@@ -17,8 +17,5 @@ public class ArrayList
         int arr[] = new int[4];
         
 
-
-
-
     }   
 }

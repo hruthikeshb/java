@@ -25,7 +25,6 @@ class Dog extends Animal
 
 
 
-
 public class OverRiding 
 {
     public static void main(String[] args)

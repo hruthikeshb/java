@@ -23,13 +23,8 @@ public class EqualsProperties {
         Symetric: If Object A is equal to Object B the vice versa should also be true 
         Mathematically: if x.equals(y) is true, the y.equals(x) should also be true 
         */
-        
-        
-
-
-
     
-    
+
     }
     
 }

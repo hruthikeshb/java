@@ -16,8 +16,6 @@ public interface Loop {
         for (String n: names) {
             System.out.println(n);
         }
-
-        
         
     }
 }
